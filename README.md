@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/header.svg" alt="Md Ayman Iqbal - .NET Backend Developer" width="800" />
+<img src="./assets/header.svg" alt="Md Ayman Iqbal - .NET &amp; Backend Developer" width="800" />
 
 <p>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -14,8 +14,8 @@
 
 <p>
   <a href="https://web.shaidow.me"><img src="https://img.shields.io/badge/🚀_Live_Demo-SHAIDOW-7C5CFF?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/md-ayman-iqbal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mdaymaniqbal.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
@@ -86,9 +86,9 @@ JWT + role-based auth, Redis caching, PostgreSQL, and a resume parsing pipeline.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Frontend:** &nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 **Cloud & Tools:** &nbsp;
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -144,7 +144,7 @@ JWT + role-based auth, Redis caching, PostgreSQL, and a resume parsing pipeline.
 
 <div align="center">
 
-*" I get something to exist first. Then make it great ."*
+*"Get something to exist first. You can make it great later."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
