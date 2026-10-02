@@ -144,7 +144,7 @@ JWT + role-based auth, Redis caching, PostgreSQL, and a resume parsing pipeline.
 
 <div align="center">
 
-*"Get something to exist first. You can make it great later."*
+*" I Get something to exist first. Then make it great."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
