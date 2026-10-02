@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=7C5CFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Md+Ayman+Iqbal+👋;.NET+Backend+Developer;I+build+systems%2C+not+just+screens;Open+to+work+%E2%80%94+graduating+June+2027" alt="Typing SVG" />
+<img src="./assets/header.svg" alt="Md Ayman Iqbal - .NET Backend Developer" width="800" />
 
 <p>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -18,8 +18,6 @@
   <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=RICKY-gmdev&label=Profile+views&color=7C5CFF&style=flat-square" />
-
 </div>
 
 ---
@@ -27,7 +25,7 @@
 ## 👨‍💻 About me
 
 ```csharp
-public class AymanIqbal : Developer
+public class MdAymanIqbal : Developer
 {
     public string Role      => "4th-year B.Tech CSE @ Techno BIT (MAKAUT)";
     public string Focus     => "Backend engineering with ASP.NET Core";
@@ -116,8 +114,6 @@ JWT + role-based auth, Redis caching, PostgreSQL, and a resume parsing pipeline.
 </a>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RICKY-gmdev&theme=tokyonight&hide_border=true&background=0d1117" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RICKY-gmdev&theme=tokyonight" height="0" width="0" style="display:none" />
 
 </div>
 
