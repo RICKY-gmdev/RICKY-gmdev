@@ -75,6 +75,7 @@ JWT + role-based auth, Redis caching, PostgreSQL, and a resume parsing pipeline.
 **Backend:** &nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
@@ -119,10 +120,14 @@ JWT + role-based auth, Redis caching, PostgreSQL, and a resume parsing pipeline.
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RICKY-gmdev&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RICKY-gmdev/RICKY-gmdev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RICKY-gmdev/RICKY-gmdev/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/RICKY-gmdev/RICKY-gmdev/output/github-snake-dark.svg" />
+</picture>
 </div>
 
 ---
@@ -137,7 +142,7 @@ JWT + role-based auth, Redis caching, PostgreSQL, and a resume parsing pipeline.
 
 <div align="center">
 
-*"Don't just make it work. Know why it works."*
+*" I get something to exist first. Then make it great ."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
