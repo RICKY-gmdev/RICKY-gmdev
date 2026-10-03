@@ -1,8 +1,8 @@
-<!-- Put this file in a repo named exactly RICKY-gmdev (same as your username), at the root, as README.md -->
+
 
 <div align="center">
 
-<img src="./assets/header.svg" alt="Md Ayman Iqbal - .NET &amp; Backend Developer" width="800" />
+<img src="./assets/header.svg" alt="Md Ayman Iqbal - .NET, Cloud &amp; Backend Developer" width="800" />
 
 <p>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
