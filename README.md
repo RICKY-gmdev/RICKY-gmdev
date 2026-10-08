@@ -1,9 +1,6 @@
-
-
+ 
 <div align="center">
-
-<img src="./assets/header.svg" alt="Md Ayman Iqbal - .NET, Cloud &amp; Backend Developer" width="800" />
-
+<img src="./assets/header.svg" alt="Md Ayman Iqbal - .NET &amp; Backend Developer" width="800" />
 <p>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -11,13 +8,13 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
-
 <p>
-  <a href="https://orange-smoke-05f6fd200.7.azurestaticapps.net"><img src="https://img.shields.io/badge/🚀_Live_Demo-SHAIDOW-7C5CFF?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/md-ayman-iqbal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mdaymaniqbal.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://web.shaidow.me"><img src="https://img.shields.io/badge/🚀_Live_Demo-SHAIDOW-7C5CFF?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Md-Ayman-Iqbal/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/rickymelhmv"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
-
 </div>
 
 ---
